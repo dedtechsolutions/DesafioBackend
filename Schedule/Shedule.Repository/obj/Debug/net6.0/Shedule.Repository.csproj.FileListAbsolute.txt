@@ -13,3 +13,5 @@ C:\bk\DesafioBackend\Schedule\Shedule.Repository\obj\Debug\net6.0\Shedule.Reposi
 C:\bk\DesafioBackend\Schedule\Shedule.Repository\obj\Debug\net6.0\refint\Shedule.Repository.dll
 C:\bk\DesafioBackend\Schedule\Shedule.Repository\obj\Debug\net6.0\Shedule.Repository.pdb
 C:\bk\DesafioBackend\Schedule\Shedule.Repository\obj\Debug\net6.0\ref\Shedule.Repository.dll
+C:\bk\DesafioBackend\Schedule\Shedule.Repository\bin\Debug\net6.0\Shedule.Repository.runtimeconfig.json
+C:\bk\DesafioBackend\Schedule\Shedule.Repository\obj\Debug\net6.0\Shedule.Repository.genruntimeconfig.cache
