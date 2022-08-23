@@ -48,3 +48,6 @@ Toda tarefa possui:
 
 ## Entrega:
 O candidato deverá criar um fork deste projeto, e a partir deste fork, realizar o desenvolvimento. Favor utilizar o "Readme" do seu fork para descrever as dificuldades técnicas encontradas, como você as superou e, principalmente, como subir o projeto. Ao finalizar, você deverá responder para o e-mail que te enviou esse desafio, com o link do seu fork.
+## Para Rodar:
+Baixar do git a aplicação.
+Criar o database e alterar a connectionstring no arquivo appsettings.json campo ConnectionString
