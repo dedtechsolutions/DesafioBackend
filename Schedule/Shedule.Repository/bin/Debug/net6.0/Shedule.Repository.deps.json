@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Shedule.Repository/1.0.0": {
+        "dependencies": {
+          "Shedule.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Shedule.Repository.dll": {}
+        }
+      },
+      "Shedule.Domain/1.0.0": {
+        "runtime": {
+          "Shedule.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Shedule.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Shedule.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

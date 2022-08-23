@@ -1,0 +1,12 @@
+C:\bk\DesafioBackend\Schedule\Shedule.Domain\bin\Debug\net6.0\Shedule.Domain.deps.json
+C:\bk\DesafioBackend\Schedule\Shedule.Domain\bin\Debug\net6.0\Shedule.Domain.dll
+C:\bk\DesafioBackend\Schedule\Shedule.Domain\bin\Debug\net6.0\Shedule.Domain.pdb
+C:\bk\DesafioBackend\Schedule\Shedule.Domain\obj\Debug\net6.0\Shedule.Domain.csproj.AssemblyReference.cache
+C:\bk\DesafioBackend\Schedule\Shedule.Domain\obj\Debug\net6.0\Shedule.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\bk\DesafioBackend\Schedule\Shedule.Domain\obj\Debug\net6.0\Shedule.Domain.AssemblyInfoInputs.cache
+C:\bk\DesafioBackend\Schedule\Shedule.Domain\obj\Debug\net6.0\Shedule.Domain.AssemblyInfo.cs
+C:\bk\DesafioBackend\Schedule\Shedule.Domain\obj\Debug\net6.0\Shedule.Domain.csproj.CoreCompileInputs.cache
+C:\bk\DesafioBackend\Schedule\Shedule.Domain\obj\Debug\net6.0\Shedule.Domain.dll
+C:\bk\DesafioBackend\Schedule\Shedule.Domain\obj\Debug\net6.0\refint\Shedule.Domain.dll
+C:\bk\DesafioBackend\Schedule\Shedule.Domain\obj\Debug\net6.0\Shedule.Domain.pdb
+C:\bk\DesafioBackend\Schedule\Shedule.Domain\obj\Debug\net6.0\ref\Shedule.Domain.dll

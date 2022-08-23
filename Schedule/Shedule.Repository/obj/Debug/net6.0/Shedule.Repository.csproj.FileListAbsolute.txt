@@ -1,0 +1,15 @@
+C:\bk\DesafioBackend\Schedule\Shedule.Repository\bin\Debug\net6.0\Shedule.Repository.deps.json
+C:\bk\DesafioBackend\Schedule\Shedule.Repository\bin\Debug\net6.0\Shedule.Repository.dll
+C:\bk\DesafioBackend\Schedule\Shedule.Repository\bin\Debug\net6.0\Shedule.Repository.pdb
+C:\bk\DesafioBackend\Schedule\Shedule.Repository\bin\Debug\net6.0\Shedule.Domain.dll
+C:\bk\DesafioBackend\Schedule\Shedule.Repository\bin\Debug\net6.0\Shedule.Domain.pdb
+C:\bk\DesafioBackend\Schedule\Shedule.Repository\obj\Debug\net6.0\Shedule.Repository.csproj.AssemblyReference.cache
+C:\bk\DesafioBackend\Schedule\Shedule.Repository\obj\Debug\net6.0\Shedule.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\bk\DesafioBackend\Schedule\Shedule.Repository\obj\Debug\net6.0\Shedule.Repository.AssemblyInfoInputs.cache
+C:\bk\DesafioBackend\Schedule\Shedule.Repository\obj\Debug\net6.0\Shedule.Repository.AssemblyInfo.cs
+C:\bk\DesafioBackend\Schedule\Shedule.Repository\obj\Debug\net6.0\Shedule.Repository.csproj.CoreCompileInputs.cache
+C:\bk\DesafioBackend\Schedule\Shedule.Repository\obj\Debug\net6.0\Shedule.Repository.csproj.CopyComplete
+C:\bk\DesafioBackend\Schedule\Shedule.Repository\obj\Debug\net6.0\Shedule.Repository.dll
+C:\bk\DesafioBackend\Schedule\Shedule.Repository\obj\Debug\net6.0\refint\Shedule.Repository.dll
+C:\bk\DesafioBackend\Schedule\Shedule.Repository\obj\Debug\net6.0\Shedule.Repository.pdb
+C:\bk\DesafioBackend\Schedule\Shedule.Repository\obj\Debug\net6.0\ref\Shedule.Repository.dll
