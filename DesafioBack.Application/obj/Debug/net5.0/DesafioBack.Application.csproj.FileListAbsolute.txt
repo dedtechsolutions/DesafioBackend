@@ -1,0 +1,15 @@
+C:\Users\raffaell.guimaraes\Desktop\Raffaell\estudos\Desafio\DesafioBack\DesafioBack.Application\bin\Debug\net5.0\DesafioBack.Application.deps.json
+C:\Users\raffaell.guimaraes\Desktop\Raffaell\estudos\Desafio\DesafioBack\DesafioBack.Application\bin\Debug\net5.0\DesafioBack.Application.dll
+C:\Users\raffaell.guimaraes\Desktop\Raffaell\estudos\Desafio\DesafioBack\DesafioBack.Application\bin\Debug\net5.0\ref\DesafioBack.Application.dll
+C:\Users\raffaell.guimaraes\Desktop\Raffaell\estudos\Desafio\DesafioBack\DesafioBack.Application\bin\Debug\net5.0\DesafioBack.Application.pdb
+C:\Users\raffaell.guimaraes\Desktop\Raffaell\estudos\Desafio\DesafioBack\DesafioBack.Application\bin\Debug\net5.0\DesafioBack.Domain.dll
+C:\Users\raffaell.guimaraes\Desktop\Raffaell\estudos\Desafio\DesafioBack\DesafioBack.Application\bin\Debug\net5.0\DesafioBack.Domain.pdb
+C:\Users\raffaell.guimaraes\Desktop\Raffaell\estudos\Desafio\DesafioBack\DesafioBack.Application\obj\Debug\net5.0\DesafioBack.Application.csproj.AssemblyReference.cache
+C:\Users\raffaell.guimaraes\Desktop\Raffaell\estudos\Desafio\DesafioBack\DesafioBack.Application\obj\Debug\net5.0\DesafioBack.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raffaell.guimaraes\Desktop\Raffaell\estudos\Desafio\DesafioBack\DesafioBack.Application\obj\Debug\net5.0\DesafioBack.Application.AssemblyInfoInputs.cache
+C:\Users\raffaell.guimaraes\Desktop\Raffaell\estudos\Desafio\DesafioBack\DesafioBack.Application\obj\Debug\net5.0\DesafioBack.Application.AssemblyInfo.cs
+C:\Users\raffaell.guimaraes\Desktop\Raffaell\estudos\Desafio\DesafioBack\DesafioBack.Application\obj\Debug\net5.0\DesafioBack.Application.csproj.CoreCompileInputs.cache
+C:\Users\raffaell.guimaraes\Desktop\Raffaell\estudos\Desafio\DesafioBack\DesafioBack.Application\obj\Debug\net5.0\DesafioBack.Application.csproj.CopyComplete
+C:\Users\raffaell.guimaraes\Desktop\Raffaell\estudos\Desafio\DesafioBack\DesafioBack.Application\obj\Debug\net5.0\DesafioBack.Application.dll
+C:\Users\raffaell.guimaraes\Desktop\Raffaell\estudos\Desafio\DesafioBack\DesafioBack.Application\obj\Debug\net5.0\ref\DesafioBack.Application.dll
+C:\Users\raffaell.guimaraes\Desktop\Raffaell\estudos\Desafio\DesafioBack\DesafioBack.Application\obj\Debug\net5.0\DesafioBack.Application.pdb
