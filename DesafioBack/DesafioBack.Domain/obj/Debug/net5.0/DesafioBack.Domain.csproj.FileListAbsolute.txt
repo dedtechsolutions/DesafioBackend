@@ -1,0 +1,15 @@
+C:\Users\raffaell.guimaraes\Desktop\Raffaell\estudos\Desafio\DesafioBack\DesafioBack.Domain\bin\Debug\net5.0\DesafioBack.Domain.deps.json
+C:\Users\raffaell.guimaraes\Desktop\Raffaell\estudos\Desafio\DesafioBack\DesafioBack.Domain\bin\Debug\net5.0\DesafioBack.Domain.dll
+C:\Users\raffaell.guimaraes\Desktop\Raffaell\estudos\Desafio\DesafioBack\DesafioBack.Domain\bin\Debug\net5.0\ref\DesafioBack.Domain.dll
+C:\Users\raffaell.guimaraes\Desktop\Raffaell\estudos\Desafio\DesafioBack\DesafioBack.Domain\bin\Debug\net5.0\DesafioBack.Domain.pdb
+C:\Users\raffaell.guimaraes\Desktop\Raffaell\estudos\Desafio\DesafioBack\DesafioBack.Domain\obj\Debug\net5.0\DesafioBack.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raffaell.guimaraes\Desktop\Raffaell\estudos\Desafio\DesafioBack\DesafioBack.Domain\obj\Debug\net5.0\DesafioBack.Domain.AssemblyInfoInputs.cache
+C:\Users\raffaell.guimaraes\Desktop\Raffaell\estudos\Desafio\DesafioBack\DesafioBack.Domain\obj\Debug\net5.0\DesafioBack.Domain.AssemblyInfo.cs
+C:\Users\raffaell.guimaraes\Desktop\Raffaell\estudos\Desafio\DesafioBack\DesafioBack.Domain\obj\Debug\net5.0\DesafioBack.Domain.csproj.CoreCompileInputs.cache
+C:\Users\raffaell.guimaraes\Desktop\Raffaell\estudos\Desafio\DesafioBack\DesafioBack.Domain\obj\Debug\net5.0\DesafioBack.Domain.dll
+C:\Users\raffaell.guimaraes\Desktop\Raffaell\estudos\Desafio\DesafioBack\DesafioBack.Domain\obj\Debug\net5.0\ref\DesafioBack.Domain.dll
+C:\Users\raffaell.guimaraes\Desktop\Raffaell\estudos\Desafio\DesafioBack\DesafioBack.Domain\obj\Debug\net5.0\DesafioBack.Domain.pdb
+C:\Users\raffaell.guimaraes\Desktop\Raffaell\estudos\Desafio\DesafioBack\DesafioBack.Domain\bin\Debug\net5.0\DesafioBack.Domain.runtimeconfig.json
+C:\Users\raffaell.guimaraes\Desktop\Raffaell\estudos\Desafio\DesafioBack\DesafioBack.Domain\bin\Debug\net5.0\DesafioBack.Domain.runtimeconfig.dev.json
+C:\Users\raffaell.guimaraes\Desktop\Raffaell\estudos\Desafio\DesafioBack\DesafioBack.Domain\obj\Debug\net5.0\DesafioBack.Domain.csproj.AssemblyReference.cache
+C:\Users\raffaell.guimaraes\Desktop\Raffaell\estudos\Desafio\DesafioBack\DesafioBack.Domain\obj\Debug\net5.0\DesafioBack.Domain.genruntimeconfig.cache
